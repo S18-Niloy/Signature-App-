@@ -33,5 +33,7 @@ python manage.py runserver
 ## N.B.
 Ensure your html file location in signature\views.py
 
+## Sample
+
 ![Upload Example](assets/upload.png)
 ![Verification Example](assets/verify.png)
