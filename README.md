@@ -18,5 +18,20 @@ Follow the steps below to set up and run the project.
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/signature-verification.git
-cd signature-verification```
+git clone https://github.com/S18-Niloy/SignatureApp.git
+```
+```bash
+cd SignatureApp
+```
+```bash
+pip install -r requirements.txt
+```
+```bash
+python manage.py runserver
+```
+
+## N.B.
+Ensure your html file location in signature\views.py
+
+![Upload Example](assets/upload.png)
+![Verification Example](assets/verify.png)
